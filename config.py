@@ -1,0 +1,11 @@
+# src/config.py
+
+# Default values
+USER_NAME = None
+USER_MESSAGE = None
+CITY_NAME = None
+CITY_LAT = None
+CITY_LONG = None
+
+DISTANCE_THRESHOLD_KM = 500
+POLL_INTERVAL_SECONDS = 5
